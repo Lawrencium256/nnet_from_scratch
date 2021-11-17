@@ -1,4 +1,4 @@
-# Building Neural Network from Scratch
+# Building a Feedforward Neural Network from Scratch
 
 Project to build a neural network from scratch in Python.
 
