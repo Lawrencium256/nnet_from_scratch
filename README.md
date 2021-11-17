@@ -4,7 +4,7 @@ Project to build a neural network from scratch in Python.
 
 Basic libraries such as Numpy, Random and Matplotlib are used but deep learning packages were avoided during the design process. PyTorch is only used to verify model accuracy.
 
-The vanilla feedforward model has been trained on MNIST data, using MSE loss and sigmoid activation. The next ways to add to the model include (but are not limited to):
+This vanilla feedforward model has been trained on MNIST data, using MSE loss and sigmoid activation. The next ways to add to the model include (but are not limited to):
 
 * Choice of activation function (this has been added but not integrated into `Network()` class).
 * Choice of loss.
