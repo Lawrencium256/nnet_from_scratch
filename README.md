@@ -6,7 +6,7 @@ Basic libraries such as Numpy, Random and Matplotlib are used but deep learning 
 
 The vanilla feedforward model has been trained on MNIST data, using MSE loss and sigmoid activation. The next ways to add to the model include (but are not limited to):
 
-* Choice of activation function (this has been added but not integrated into Network() class).
+* Choice of activation function (this has been added but not integrated into `Network()` class).
 * Choice of loss.
 * Different parameter initialisation
 * Regularisation (e.g. L2).
